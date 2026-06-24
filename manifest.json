@@ -1,0 +1,9 @@
+{
+	"id": "canvas-excalidraw-draw",
+	"name": "Canvas Excalidraw Draw",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.7",
+	"description": "Create a new Excalidraw drawing directly as a canvas node, via right-click or a hotkey, and open it for editing in a popout window.",
+	"author": "fkholkin",
+	"isDesktopOnly": true
+}
